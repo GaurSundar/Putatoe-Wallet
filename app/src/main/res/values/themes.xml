@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PutatoeWallet" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/dark_peal</item>
+    </style>
+
+    <style name="Theme.PutatoeWallet" parent="Base.Theme.PutatoeWallet" />
+</resources>
